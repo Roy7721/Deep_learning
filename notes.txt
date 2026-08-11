@@ -1,0 +1,24 @@
+- what is  weights and bias in dl
+- perceptron trick
+- c is inverse with straight line shift
+- a for rotation clock wise with increase
+- chaingin a axis rotate based on y axis
+- for b axis rotates based on x axis
+- xi ∈ N and Σ wi xi ≥ 0
+
+	wn = w0 − ηxi
+
+
+-xi ∈ P and Σ wi xi < 0
+
+	wn = w0 + ηxi
+
+- wn = w0 + η(yi - ŷi)xi
+- yi - ŷi = 1  →  wn = w0 + ηxi
+- yi - ŷi = 0  →  wn = w0
+- yi - ŷi = -1 →  wn = w0 - ηxi
+
+- why loss functions
+- missclassification number
+- perpendicular distance
+- 
