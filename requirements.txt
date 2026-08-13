@@ -1,0 +1,20 @@
+# Python 3.11 required — TensorFlow has no wheels for 3.12+/3.14 on Windows.
+# Install with:  pip install -r requirements.txt
+
+# Core numeric / data
+numpy
+pandas
+
+# Plotting
+matplotlib
+seaborn
+
+# Classic ML + preprocessing (train_test_split, StandardScaler, metrics)
+scikit-learn
+
+# Deep learning (CPU build — TensorFlow on Windows is CPU-only since 2.11)
+tensorflow==2.21.0
+
+# Notebooks
+jupyter
+ipykernel
