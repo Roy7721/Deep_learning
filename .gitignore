@@ -3,6 +3,8 @@ venv/
 .venv/
 env/
 videos
+cat_vs_dog/archive/
+
 
 # Personal notes
 notes.txt
