@@ -4,7 +4,8 @@ venv/
 env/
 videos
 cat_vs_dog/archive/
-
+*.zip
+fashion-mnist_train.csv
 
 # Personal notes
 notes.txt
